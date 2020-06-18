@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../instabot/.idea/instabot.iml" filepath="$PROJECT_DIR$/../instabot/.idea/instabot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/instagramAPI.iml" filepath="$PROJECT_DIR$/.idea/instagramAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../twitterBot/.idea/twitter.iml" filepath="$PROJECT_DIR$/../twitterBot/.idea/twitter.iml" />
+    </modules>
+  </component>
+</project>
